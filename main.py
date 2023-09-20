@@ -18,33 +18,33 @@ print(data)
         <tr>
             <td width="311">
                 <h5 style="text-align: center;"><a href="{5}"></a></h5>
-                <h5 style="text-align: center;"><a href="{6}">02.10.2023</a></h5>
-                <h5 style="text-align: center;"><a href="{7}">02.10.2023</a></h5>
-                <h5 style="text-align: center;"><a href="{8}">02.10.2023</a></h5>
-                <h5 style="text-align: center;"><a href="{9}">02.10.2023</a></h5>
+                <h5 style="text-align: center;"><a href="{6}"></a></h5>
+                <h5 style="text-align: center;"><a href="{7}"></a></h5>
+                <h5 style="text-align: center;"><a href="{8}"></a></h5>
+                <h5 style="text-align: center;"><a href="{9}"></a></h5>
             </td>
             <td width="312">
-                <h5 style="text-align: center;"><a href="{10}">02.10.2023</a></h5>
-                <h5 style="text-align: center;"><a href="{12}">02.10.2023</a></h5>
-                <h5 style="text-align: center;"><a href="{13}">02.10.2023</a></h5>
-                <h5 style="text-align: center;"><a href="{14}">02.10.2023</a></h5>
-                <h5 style="text-align: center;"><a href="{15}">02.10.2023</a></h5>
+                <h5 style="text-align: center;"><a href="{10}"></a></h5>
+                <h5 style="text-align: center;"><a href="{12}"></a></h5>
+                <h5 style="text-align: center;"><a href="{13}"></a></h5>
+                <h5 style="text-align: center;"><a href="{14}"></a></h5>
+                <h5 style="text-align: center;"><a href="{15}"></a></h5>
             </td>
         </tr>
         <tr>
             <td style="text-align: center;" width="311">
-                <h5 style="text-align: center;"><a href="{16}">02.10.2023</a></h5>
-                <h5 style="text-align: center;"><a href="{17}">02.10.2023</a></h5>
-                <h5 style="text-align: center;"><a href="{18}">02.10.2023</a></h5>
-                <h5 style="text-align: center;"><a href="{19}">02.10.2023</a></h5>
-                <h5 style="text-align: center;"><a href="{20}">02.10.2023</a></h5>
+                <h5 style="text-align: center;"><a href="{16}"></a></h5>
+                <h5 style="text-align: center;"><a href="{17}"></a></h5>
+                <h5 style="text-align: center;"><a href="{18}"></a></h5>
+                <h5 style="text-align: center;"><a href="{19}"></a></h5>
+                <h5 style="text-align: center;"><a href="{20}"></a></h5>
             </td>
             <td width="312">
-                <h5 style="text-align: center;"><a href="{21}">02.10.2023</a></h5>
-                <h5 style="text-align: center;"><a href="{22}">02.10.2023</a></h5>
-                <h5 style="text-align: center;"><a href="{23}">02.10.2023</a></h5>
-                <h5 style="text-align: center;"><a href="{24}">02.10.2023</a></h5>
-                <h5 style="text-align: center;"><a href="{25}">02.10.2023</a></h5>
+                <h5 style="text-align: center;"><a href="{21}"></a></h5>
+                <h5 style="text-align: center;"><a href="{22}"></a></h5>
+                <h5 style="text-align: center;"><a href="{23}"></a></h5>
+                <h5 style="text-align: center;"><a href="{24}"></a></h5>
+                <h5 style="text-align: center;"><a href="{25}"></a></h5>
             </td>
         </tr>
     </tbody>
