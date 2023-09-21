@@ -1,9 +1,8 @@
-# Открываем файл для чтения
+from bs4 import BeautifulSoup
 with open('data.txt', 'r', encoding='utf-8') as file:
     # Читаем содержимое файла и разделяем его по запятым
     data = file.read().split(',')
-print(data)
-
+html_code = """
 <table>
     <tbody>
         <tr>
@@ -49,3 +48,16 @@ print(data)
         </tr>
     </tbody>
 </table>
+"""
+print(len(data))
+if len(data) < 25:
+    # Вычисляем, сколько пустых элементов нужно добавить
+    empty_elements_to_add = 25 - len(data)
+
+    # Добавляем пустые элементы
+    data.extend([""] * empty_elements_to_add)
+print(len(data))
+print(type(data))
+formatted_html = html_code.format(*data)
+
+print(formatted_html)
